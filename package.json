@@ -1,0 +1,48 @@
+{
+  "name": "userin",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/webpack-config": "^19.0.0",
+    "@parse/react-native": "^0.0.1-alpha.18",
+    "@react-native-async-storage/async-storage": "1.18.2",
+    "@react-native-community/viewpager": "^5.0.11",
+    "@react-navigation/bottom-tabs": "^6.5.9",
+    "@react-navigation/native": "^6.1.8",
+    "@react-navigation/stack": "^6.3.18",
+    "expo": "~49.0.12",
+    "expo-constants": "^14.4.2",
+    "expo-status-bar": "~1.6.0",
+    "firebase": "^10.4.0",
+    "parse": "^4.2.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.46.2",
+    "react-native": "0.72.5",
+    "react-native-elements": "^3.4.3",
+    "react-native-gesture-handler": "~2.12.0",
+    "react-native-get-random-values": "^1.9.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-paper": "^5.10.6",
+    "react-native-reanimated": "~3.3.0",
+    "react-native-safe-area-context": "4.6.3",
+    "react-native-screens": "~3.22.0",
+    "react-native-sensitive-info": "^5.5.8",
+    "react-native-toast-message": "^2.1.6",
+    "react-native-toastify": "^0.2.2",
+    "react-native-uuid": "^2.0.1",
+    "react-native-vector-icons": "^10.0.0",
+    "react-native-web": "~0.19.6",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
